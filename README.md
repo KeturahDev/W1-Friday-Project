@@ -1,3 +1,11 @@
+
+
+# error: 
+need to fix image floating under second column element
+
+[stack overflow relevant link](https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div)
+
+
 # My Portfolio
 By Keturah Howard
 

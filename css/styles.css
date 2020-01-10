@@ -13,8 +13,8 @@ h3{
 }
 
 img {
-  /* float: left; */
-  position: static;
+  float: left;
+  /* position: static; */
   padding: 25px;
   max-height: 450px;
 }
@@ -29,6 +29,14 @@ a:hover {
 a:visited {
   color: #aa8996;
 }
+
+/* fix float image issue
+.overlay-box {
+  position: relative;
+}
+.overlay-items {
+  position: absolute;
+} */
 
 .h {
   font-weight: 900;
