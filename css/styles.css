@@ -15,15 +15,29 @@ h1 {
 h2 {
   text-align: center;
 }
-
 img {
   float: left;
   padding: 25px;
   max-height: 450px;
 }
+a:link{
+  text-decoration: none;
+  color: #a50e48;
+}
+a:hover {
+  color: #ee1769
+}
+a:visited {
+  color: #aa8996;
+}
+
 .h {
   font-weight: 900;
   color: #72475f;
+}
+
+.contrast {
+  color: aliceblue
 }
 
 
