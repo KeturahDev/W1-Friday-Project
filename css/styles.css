@@ -13,7 +13,8 @@ h3{
 }
 
 img {
-  float: left;
+  /* float: left; */
+  position: static;
   padding: 25px;
   max-height: 450px;
 }
@@ -35,6 +36,13 @@ a:visited {
 }
 .quiet {
   font-size: smaller;
+}
+.goodbye{
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding: 20px;
+  background-image: radial-gradient(circle, #fff80c, #ffc649, #ff9e8a, #ff90c2, #df96df);
 }
 
 .about li {
