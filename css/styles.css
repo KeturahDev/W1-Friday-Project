@@ -1,9 +1,16 @@
 body {
-
+/* margin-left: 5% */
+/* background-image: radial-gradient(circle, #f9fffe, #ddf9ff, #ceefff, #ddddff, #ffc6fc); */
+/* background-image: radial-gradient(circle, #0e1312, #284146, #4f708a, #9a9dcd, #ffc6fc); */
+/* background-image: linear-gradient(to top, #474762, #7d5671, #ac6a6c, #c08c61, #b5b76c);
+ */
+ /* background-image: linear-gradient(to top, #000000, #2a242b, #444757, #527084, #5f9da6);
+  */
+  background-image: linear-gradient(to top, #000000, #3b262e, #72475f, #aa6c9a, #df96df);
 }
 
 h1 {
-  text-align: center;
+  text-align: center
 }
 h2 {
   text-align: center;
@@ -12,4 +19,17 @@ h2 {
 img {
   float: left;
   padding: 25px;
+  max-height: 450px;
 }
+.h {
+  font-weight: 900;
+  color: #72475f;
+}
+
+
+
+/* .cent {
+  display: flex;
+
+  justify-content: center;
+} */
