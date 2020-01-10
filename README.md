@@ -16,4 +16,4 @@ This webpage is designed for directing the viewer to my projects, inform about t
 * CSS
 * Visual Studio 
 
-Copyright (c) 2020 Keturah Howard
+Copyright (c) 2020 Keturah Howard.
