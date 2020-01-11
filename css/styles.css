@@ -13,7 +13,6 @@ h3{
 }
 
 img {
-  /* float: left; */
   position: static;
   padding: 25px;
   max-height: 450px;
@@ -44,6 +43,9 @@ a:visited {
   padding: 20px;
   background-image: radial-gradient(circle, #fff80c, #ffc649, #ff9e8a, #ff90c2, #df96df);
 }
+.favorites {
+  background-image: linear-gradient(to right, #fffb7b, #ffe193, #ffd2c2, #ffd2ec, #fbdaff);
+}
 
 .about li {
   font-variant: small-caps;
@@ -56,3 +58,4 @@ a:visited {
   margin-right: 25px;
   margin-left: 25px;
 }
+
